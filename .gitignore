@@ -1,0 +1,55 @@
+# Unreal Engine generated folders
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Unreal Engine generated files
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcworkspace
+*.xcodeproj
+*.exp
+*.lib
+*.pdb
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# Visual Studio
+.vs/
+*.user
+
+# Rider
+.idea/
+
+# Compiled shader cache
+ShaderWorkingDir/
+
+# Crash reports
+CrashReportClient/
+
+# Content files à ne PAS ignorer
+!Content/
+!Config/
+!Source/
+!*.uproject
+
+
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+*.sln
+*.suo
+*.user
+ShaderWorkingDir/
+Ships/4-10-2026-16h39/AscensionParty/Content/Paks/AscensionParty-Windows.ucas
