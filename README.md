@@ -28,7 +28,7 @@ Un party game de course en ligne multijoueur jusqu'à 4 joueurs, développé sou
 
 - **Unreal Engine 5**
 - **Blueprints** (logique de jeu)
-- **Steam** (multijoueur en ligne via Advanced Sessions Plugin)
+- **Steam** 
 
 ---
 
