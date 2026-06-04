@@ -50,6 +50,6 @@ Un party game de course en ligne multijoueur jusqu'à 4 joueurs, développé sou
 ## Lancer le projet
 
 1. Cloner le repo
-2. Ouvrir `AscensionParty.uproject` avec Unreal Engine 5
-3. Compiler les shaders au premier lancement (peut prendre quelques minutes)
+2. Ouvrir `Test.bat`
+3. Ne pas utiliser la première fenêtre
 
